@@ -18,7 +18,7 @@ if(dayIn > day){
     day = day + monthNum[month - 1];
     month = month - 1;
 }
-
+gi
 if(monthIn > month){
     month = month + 12;
     year = year - 1;
